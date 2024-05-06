@@ -1,9 +1,11 @@
+hello world 演示如何改動文件&發PR
+
 ---
 layout: forward
 target: https://developers.google.com/mediapipe/framework/getting_started/android
 title: MediaPipe on Android
 parent: Getting Started
-has_children: true
+
 has_toc: false
 nav_order: 1
 ---
